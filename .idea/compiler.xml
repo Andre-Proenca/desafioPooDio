@@ -9,5 +9,8 @@
         <module name="desafio-dio-poo" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="desafio-dio-POO" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
